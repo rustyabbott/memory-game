@@ -159,3 +159,8 @@ h1 {
 .replay-button {
   font-size: 30px;
 }
+
+.social-icon {
+  height: 24px;
+  width: 24px;
+}
